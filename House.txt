@@ -1,0 +1,1 @@
+The device is a remote controller. It has a rectangular shape with buttons on its surface. When someone presses a button a infrared pattern is sent from the controller to the reciever which can be a dvd player, cable box, etc. Each button has their own signature pattern so the reciever can take what is being sent and perform an action. 
